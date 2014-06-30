@@ -1,3 +1,39 @@
+# urls_bro weechat script
+#
+# Copyright (C) 2014 Adam Price (komidore64 at gmail dot com)
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+# requirements
+# ============
+# none
+#
+#
+# changelog
+# =========
+# 0.0.1 - initial implementation of urls_bro
+#
+#
+# bugs
+# ====
+# If you've come across a bug or error in urls_bro, please submit a Github issue
+# describing the problem, and what version of urls_bro you're running using the link
+# provided below.
+# https://github.com/komidore64/urls_bro/issues
+#
+
 TITLE       = "urls_bro"
 AUTHOR      = "komidore64"
 VERSION     = "0.0.1"
